@@ -1,0 +1,15 @@
+{
+  "originHash" : "6bc573dd421a7593782ae7eee0680d0015ebd7adf8225e34b3739b2eface2034",
+  "pins" : [
+    {
+      "identity" : "elementary",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/devmaximilian/Elementary.git",
+      "state" : {
+        "revision" : "c8e84a3ea231539df9c71aaca774f9b91e536970",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}

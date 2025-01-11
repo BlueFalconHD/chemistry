@@ -1,0 +1,15 @@
+
+Stoichemtry:
+
+s1:   g of substance --(molar mass)-> mols of substance --(coefficients)-> mols of another substance --(molar mass)-> g of another substance
+
+Need: target (c or d), mols of a and b, molar mass of a and b
+a + b -> c + d
+
+do s1 for a and b to target
+
+- get smaller result, that is LR, other is XS
+- XS result is trash
+- LR result is theoretical yield
+- go from LR to XS and subtract from initial mols of xs to get excess of reaction
+
